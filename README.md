@@ -1,7 +1,5 @@
 # react_workshop
 
-# angular_workshop
-
 ## pre-requisites (optional)
 
 ### install git-cli
