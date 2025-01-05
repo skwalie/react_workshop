@@ -31,7 +31,7 @@ and UNIX_TIME_SECONDS is 60 minutes before the current UTC unix time (in seconds
 
 documentation about this http request can be found at: 
 https://docs.kraken.com/api/docs/rest-api/get-recent-trades
-(the price is the first element of each array)
+(the price is the first element of each array from the response payload)
 
 example of url: https://api.kraken.com/0/public/Trades?pair=XXBTZUSD&since=1735595745
 ```
