@@ -6,6 +6,8 @@
 
 ### create a user accout on git-hub: https://github.com/
 
+### clone the repository: git clone https://github.com/skwalie/react_workshop.git
+
 ### install react  
 
 ## write the app
