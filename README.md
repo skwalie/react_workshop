@@ -4,7 +4,7 @@
 
 ### install git-cli
 
-### create a user accout on git-hub: https://github.com/
+### create a user accout on git-hub
 
 ### clone the repository: git clone https://github.com/skwalie/react_workshop.git
 
